@@ -4,7 +4,9 @@
 - 🌱 I’m currently an undergraduate studying Bachelor of Science in Computer Science
 - ✔  Java, PHP, Python, Javascript, C, C++
 - ✔  HTML, CSS
-- ![skills](https://user-images.githubusercontent.com/72487125/130170603-8c03a82c-841c-4900-9be6-00f7d5d82317.png)
+- 
+## Technical Skills
+![skills](https://user-images.githubusercontent.com/72487125/130170603-8c03a82c-841c-4900-9be6-00f7d5d82317.png) Java
 
 ## Contacts
 - 📫 elwaycortez@gmail.com
