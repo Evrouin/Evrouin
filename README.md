@@ -9,6 +9,7 @@
 ### Programming Languages
 ![java-skills](https://user-images.githubusercontent.com/72487125/130170877-2937641d-6d59-4742-bd70-5aa87662636b.png) &nbsp; **Java, PHP** <br>
 ![python-skills](https://user-images.githubusercontent.com/72487125/130171493-70cf3f0c-9040-4d65-b758-ab0079adb7f8.png) &nbsp; **Javascript, Python** <br>
+![c-skills](https://user-images.githubusercontent.com/72487125/130171629-6757d413-0027-412b-b7e3-f8b31c152943.png) &nbsp; **C, C++** <br>
 
 
 ## Contacts
