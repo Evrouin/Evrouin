@@ -3,6 +3,11 @@
 ## About Me
 I am Elway Cortez, currently a computer science student from the [Polytechnic University of the Philippines](https://www.pup.edu.ph/). I want to broaden my software development and programming knowledge and experience. In addition, I want to broaden my development skills, with a focus on communication and collaboration, through ethical working in the tech industry.
 
+## Test Justification
+<div style="text-align: right"> 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris volutpat nunc et tellus ornare iaculis. Maecenas faucibus, nibh eu sagittis lacinia, urna elit rutrum neque, at lobortis turpis urna a ex. Quisque eu metus a sem interdum pellentesque a eget nulla. Fusce vel hendrerit elit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum viverra ante id mattis malesuada. Morbi placerat eget dolor sit amet pulvinar. Vivamus at venenatis risus, quis hendrerit justo. Cras tristique dui nunc, quis tempor lectus pharetra ut. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Curabitur aliquet molestie tortor vel rutrum. Vivamus sed molestie metus, vitae varius mauris.
+</div>
+
 
 ## Technical Skills
 ### Programming Languages
