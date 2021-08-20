@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Evrouin
+# 👋 Hi, I’m @Evrouin
 - 🌱 I’m currently a undergraduate studying Bachelor of Science in Computer Science
 - 📫 elwaycorteZ@gmail.com
 
