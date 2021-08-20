@@ -2,9 +2,9 @@
 - 🌱 I’m currently an undergraduate studying Bachelor of Science in Computer Science
 - ✔  Java, PHP, Python, Javascript, C, C++
 - ✔  HTML, CSS
+- [twitter]: https://twitter.com/cortezelway
 - 📫 elwaycortez@gmail.com
 
-[twitter]: https://twitter.com/cortezelway
 
 <!---
 Evrouin/Evrouin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
