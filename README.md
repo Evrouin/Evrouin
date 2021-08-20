@@ -6,7 +6,7 @@
 - ✔  HTML, CSS
 - 
 ## Technical Skills
-![java-skills](https://user-images.githubusercontent.com/72487125/130170877-2937641d-6d59-4742-bd70-5aa87662636b.png) **Java**
+![java-skills](https://user-images.githubusercontent.com/72487125/130170877-2937641d-6d59-4742-bd70-5aa87662636b.png) &nbsp; **Java**
 
 ## Contacts
 - 📫 elwaycortez@gmail.com
