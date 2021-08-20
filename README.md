@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Evrouin
 - 🌱 I’m currently a undergraduate studying Bachelor of Science in Computer Science
-- 📫 elwaycorteZ@gmail.com
+- 📫 elwaycorte@gmail.com
 
 <!---
 Evrouin/Evrouin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
