@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @Evrouin
-- 🌱 I’m currently a undergraduate studying Bachelor of Science in Computer Science
+- 🌱 I’m currently an undergraduate studying Bachelor of Science in Computer Science
 - ✔  Java, PHP, Python, Javascript, C, C++
 - ✔  HTML, CSS
-- 📫 elwaycorte@gmail.com
+- 📫 elwaycortez@gmail.com
 
 <!---
 Evrouin/Evrouin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
