@@ -1,5 +1,7 @@
 # 👋 Hi, I’m @Evrouin
 - 🌱 I’m currently a undergraduate studying Bachelor of Science in Computer Science
+- ✔  Java, PHP, Javascript, C, C++
+- ✔  HTML, CSS
 - 📫 elwaycorte@gmail.com
 
 <!---
