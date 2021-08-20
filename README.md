@@ -2,7 +2,6 @@
 - 🌱 I’m currently an undergraduate studying Bachelor of Science in Computer Science
 - ✔  Java, PHP, Python, Javascript, C, C++
 - ✔  HTML, CSS
-- [twitter]: https://twitter.com/cortezelway
 - 📫 elwaycortez@gmail.com
 
 
