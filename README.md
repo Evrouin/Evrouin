@@ -26,7 +26,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![twitter-icon](https://user-images.githubusercontent.com/72487125/130173179-c03d7a26-d2bd-49ab-a423-1fc0e06884c8.png) [@cortezelway](https://twitter.com/cortezelway) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![linkedin-icon](https://user-images.githubusercontent.com/72487125/130173539-f0afdb3d-c4f9-4163-a1ee-562916bda160.png) [Elway Cortez](https://www.linkedin.com/in/elway-cortez/) <br>
+![linkedin-icon](https://user-images.githubusercontent.com/72487125/130173539-f0afdb3d-c4f9-4163-a1ee-562916bda160.png)(https://www.linkedin.com/in/elway-cortez/) <br>
 
 
 <!---
