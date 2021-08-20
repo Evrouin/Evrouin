@@ -1,7 +1,7 @@
 # ![twitter_header](https://user-images.githubusercontent.com/72487125/130167985-c6c98a0f-d0ce-4721-b42a-068dd2d6dc72.jpg)
 
 ## Something about me
-&nbsp;&nbsp;&nbsp;&nbsp;I am Elway Cortez, currently a computer science student.  
+&nbsp;&nbsp;&nbsp;&nbsp;I am Elway Cortez, currently a computer science student from the [Polytechnic University of the Philippines](https://www.pup.edu.ph/).  
 
 ## Technical Skills
 ### Programming Languages
