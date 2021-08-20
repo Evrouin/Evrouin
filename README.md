@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Evrouin
+# 👋 Hi, I’m Evrouin
 - 🌱 I’m currently an undergraduate studying Bachelor of Science in Computer Science
 - ✔  Java, PHP, Python, Javascript, C, C++
 - ✔  HTML, CSS
