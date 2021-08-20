@@ -9,6 +9,9 @@
 ### Programming Languages
 ![java-skills](https://user-images.githubusercontent.com/72487125/130170877-2937641d-6d59-4742-bd70-5aa87662636b.png) &nbsp; **Java** <br>
 ![java-skills](https://user-images.githubusercontent.com/72487125/130170877-2937641d-6d59-4742-bd70-5aa87662636b.png) &nbsp; **PHP** <br>
+![java-skills](https://user-images.githubusercontent.com/72487125/130170877-2937641d-6d59-4742-bd70-5aa87662636b.png) &nbsp; **Javascript** <br>
+![python-skills](https://user-images.githubusercontent.com/72487125/130171252-e29191e6-43c4-4dbf-ac47-24d09c927b10.png) &nbsp; **Python** <br>
+
 
 ## Contacts
 - 📫 elwaycortez@gmail.com
