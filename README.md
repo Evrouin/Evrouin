@@ -1,10 +1,11 @@
 # ![twitter_header](https://user-images.githubusercontent.com/72487125/130167985-c6c98a0f-d0ce-4721-b42a-068dd2d6dc72.jpg)
 
-<br/>
-
+## Something about me
 - 🌱 I’m currently an undergraduate studying Bachelor of Science in Computer Science
 - ✔  Java, PHP, Python, Javascript, C, C++
 - ✔  HTML, CSS
+
+## Contacts
 - 📫 elwaycortez@gmail.com
 
 <!---
