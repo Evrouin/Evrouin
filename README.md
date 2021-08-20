@@ -20,13 +20,13 @@
 
 ## Contacts
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![gmail-icon](https://user-images.githubusercontent.com/72487125/130173011-a7080e7a-6b23-4f08-bddf-94905cecf581.png) elwaycortez@gmail.com <br>
+![gmail-icon](https://user-images.githubusercontent.com/72487125/130173011-a7080e7a-6b23-4f08-bddf-94905cecf581.png)&nbsp;&nbsp; Email: elwaycortez@gmail.com <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![facebook-icon](https://user-images.githubusercontent.com/72487125/130172901-f505935a-cbf3-4cda-b773-3773ef6487c7.png) [Elway Cortez](https://www.facebook.com/elway.cortez.27/) <br>
+![facebook-icon](https://user-images.githubusercontent.com/72487125/130172901-f505935a-cbf3-4cda-b773-3773ef6487c7.png)&nbsp;&nbsp; Facbook: [Elway Cortez](https://www.facebook.com/elway.cortez.27/) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![twitter-icon](https://user-images.githubusercontent.com/72487125/130173179-c03d7a26-d2bd-49ab-a423-1fc0e06884c8.png) [@cortezelway](https://twitter.com/cortezelway) <br>
+![twitter-icon](https://user-images.githubusercontent.com/72487125/130173179-c03d7a26-d2bd-49ab-a423-1fc0e06884c8.png)&nbsp;&nbsp; Twitter: [@cortezelway](https://twitter.com/cortezelway) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![linkedin-icon](https://user-images.githubusercontent.com/72487125/130173539-f0afdb3d-c4f9-4163-a1ee-562916bda160.png)(https://www.linkedin.com/in/elway-cortez/) <br>
+![linkedin-icon](https://user-images.githubusercontent.com/72487125/130173539-f0afdb3d-c4f9-4163-a1ee-562916bda160.png)&nbsp;&nbsp; Linkedin: [Elway Cortez](https://www.linkedin.com/in/elway-cortez/) <br>
 
 
 <!---
