@@ -1,5 +1,5 @@
 ## About Me
-I am Elway Cortez, currently a computer science student from the [Polytechnic University of the Philippines](https://www.pup.edu.ph/). I want to broaden my software development and programming knowledge and experience. In addition, I want to broaden my development skills, with a focus on communication and collaboration, through ethical working in the tech industry.
+I am Elway Cortez, a computer science graduate from the [Polytechnic University of the Philippines](https://www.pup.edu.ph/). I want to broaden my software development and programming knowledge and experience. In addition, I want to broaden my development skills, with a focus on communication and collaboration, through ethical working in the tech industry.
 
 ## Technical Skills
 ### Programming Languages
