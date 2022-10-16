@@ -1,5 +1,3 @@
-# ![twitter_header](https://user-images.githubusercontent.com/72487125/130167985-c6c98a0f-d0ce-4721-b42a-068dd2d6dc72.jpg)
-
 ## About Me
 I am Elway Cortez, currently a computer science student from the [Polytechnic University of the Philippines](https://www.pup.edu.ph/). I want to broaden my software development and programming knowledge and experience. In addition, I want to broaden my development skills, with a focus on communication and collaboration, through ethical working in the tech industry.
 
