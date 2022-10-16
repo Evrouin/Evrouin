@@ -1,7 +1,7 @@
 ## About Me
 I am Elway Cortez, a computer science graduate from the [Polytechnic University of the Philippines](https://www.pup.edu.ph/). I want to broaden my software development and programming knowledge and experience. In addition, I want to broaden my development skills, with a focus on communication and collaboration, through ethical working in the tech industry.
 
-## Technical Skills
+<!-- ## Technical Skills
 ### Programming Languages
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![java-skills](https://user-images.githubusercontent.com/72487125/130170877-2937641d-6d59-4742-bd70-5aa87662636b.png) &nbsp; **Java, PHP** <br>
@@ -13,7 +13,7 @@ I am Elway Cortez, a computer science graduate from the [Polytechnic University 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![java-skills](https://user-images.githubusercontent.com/72487125/130170877-2937641d-6d59-4742-bd70-5aa87662636b.png) &nbsp; **SQL** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![python-skills](https://user-images.githubusercontent.com/72487125/130171493-70cf3f0c-9040-4d65-b758-ab0079adb7f8.png) &nbsp; **HTML, CSS** <br>
+![python-skills](https://user-images.githubusercontent.com/72487125/130171493-70cf3f0c-9040-4d65-b758-ab0079adb7f8.png) &nbsp; **HTML, CSS** <br> -->
 
 
 ## Contacts
